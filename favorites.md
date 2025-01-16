@@ -8,6 +8,6 @@ Food
 * Sushi
 Places
 ------
-* Coniferous forrests
+* Redwood forests
 * Beaches
 * Meadows
